@@ -1,0 +1,9 @@
+discord.py==1.7.3
+aiohttp
+requests
+colorama
+Flask
+python-telegram-bot
+pystyle
+beautifulsoup4
+pyfiglet
